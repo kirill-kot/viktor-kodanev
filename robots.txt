@@ -1,7 +1,3 @@
-<br />
-<b>Warning</b>:  Parameter 2 to WPGlobus_Filters::filter__the_posts() expected to be a reference, value given in <b>D:\currentWorks\kodanev-viktor\wp-includes\class-wp-hook.php</b> on line <b>286</b><br />
-<br />
-<b>Warning</b>:  Cannot modify header information - headers already sent by (output started at D:\currentWorks\kodanev-viktor\wp-includes\class-wp-hook.php:286) in <b>D:\currentWorks\kodanev-viktor\wp-includes\functions.php</b> on line <b>1467</b><br />
 User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
