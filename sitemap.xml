@@ -1,0 +1,202 @@
+<br />
+<b>Warning</b>:  Parameter 2 to WPGlobus_Filters::filter__the_posts() expected to be a reference, value given in <b>D:\currentWorks\kodanev-viktor\wp-includes\class-wp-hook.php</b> on line <b>286</b><br />
+	<!DOCTYPE html>
+	<html lang="ru-RU">
+
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+		<link rel="shortcut icon" href="http://OFFLINEZIP.wpshowp-content/themes/kodanev/assets/icon_32.png" type="image/x-icon" />
+
+<link rel="apple-touch-icon" sizes="180x180" href="http://OFFLINEZIP.wpshowp-content/themes/kodanev/assets/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="http://OFFLINEZIP.wpshowp-content/themes/kodanev/assets/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="http://OFFLINEZIP.wpshowp-content/themes/kodanev/assets/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="http://OFFLINEZIP.wpshowp-content/themes/kodanev/assets/manifest.json">
+<link rel="mask-icon" href="http://OFFLINEZIP.wpshowp-content/themes/kodanev/assets/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="http://OFFLINEZIP.wpshowp-content/themes/kodanev/assets/mstile-144x144.png">
+<meta name="theme-color" content="#ffffff">
+		<link rel="profile" href="http://gmpg.org/xfn/11">
+		<link rel="pingback" href="http://OFFLINEZIP.wpshoxmlrpc.php">
+		<title>Страница не найдена &#8212; kodanev-viktor</title>
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="kodanev-viktor &raquo; Лента" href="http://OFFLINEZIP.wpshofeed/" />
+<link rel="alternate" type="application/rss+xml" title="kodanev-viktor &raquo; Лента комментариев" href="http://OFFLINEZIP.wpshocomments/feed/" />
+<link rel='stylesheet' id='wp-block-library-css'  href='http://OFFLINEZIP.wpshowp-includes/css/dist/block-library/style.min.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='materialize-style-css'  href='http://OFFLINEZIP.wpshowp-content/themes/kodanev/assets/css/materialize.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='icons-css'  href='http://OFFLINEZIP.wpshowp-content/themes/kodanev/assets/icons/style.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='flexbox-helper-css'  href='http://OFFLINEZIP.wpshowp-content/themes/kodanev/assets/css/flexbox.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='fonts-style-css'  href='http://OFFLINEZIP.wpshowp-content/themes/kodanev/assets/fonts/exo2/exotwocondensed.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='kodanev-style-css'  href='http://OFFLINEZIP.wpshowp-content/themes/kodanev/style.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpglobus-css'  href='http://OFFLINEZIP.wpshowp-content/plugins/wpglobus/includes/css/wpglobus.min.css?ver=1.6.2' type='text/css' media='all' />
+<script type='text/javascript' src='http://OFFLINEZIP.wpshowp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='http://OFFLINEZIP.wpshowp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var userSettings = {"url":"\/","uid":"0","time":"1568636111","secure":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://OFFLINEZIP.wpshowp-includes/js/utils.min.js?ver=5.2.2'></script>
+<link rel='https://api.w.org/' href='http://OFFLINEZIP.wpshowp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://OFFLINEZIP.wpshoxmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 5.2.2" />
+			<style type="text/css" media="screen">
+				.wpglobus_flag_ru{background-image:url(http://OFFLINEZIP.wpshowp-content/plugins/wpglobus/flags/ru.png)}.wpglobus_flag_en{background-image:url(http://OFFLINEZIP.wpshowp-content/plugins/wpglobus/flags/us.png)}                                    			</style>
+				</head>
+
+	<body class="error404 hfeed">
+		<header id="masthead" class="site-header" role="banner">
+			<nav class="white hide-on-med-and-down">
+				<div class="nav-wrapper">
+					<div class="name left">
+						<h1 class="exo2bold dark-blue-text">Виктор Коданев</h1>
+					</div>
+					<div class="lang right">
+						<ul class="lang_changer right"><li><a class="exo2reg med-blue-text active">Russian</a></li><li><a class="exo2reg med-blue-text" href="http://OFFLINEZIP.wpshoen/sitemap.xml">English</a></li></ul><!-- .wpglobus-selector-box -->
+					</div>
+				</div>
+			</nav>
+			<div class="navbar-fixed hide-on-large-only">
+				<nav class="white">
+					<div class="nav-wrapper">
+						<button data-activates="sidenav" class="c-hamburger c-hamburger--htx right">
+							<span>toggle menu</span>
+						</button>
+
+						<div class="name center">
+							<h1 class="exo2bold dark-blue-text">Виктор Коданев</h1>
+						</div>
+						<div class="pagenav side-nav" id="sidenav">
+							<div class="name center">
+								<h1 class="exo2bold white-text">Виктор Коданев</h1>
+							</div>
+							<div class="container flex-column">
+								<ul class="links flex-column">
+
+
+									<li> <a class="exo2reg" href="http://OFFLINEZIP.wpsho">Обо мне</a></li><li> <a class="exo2reg" href="http://OFFLINEZIP.wpshoprofessional/">Профессиональное развитие</a></li><li> <a class="exo2reg" href="http://OFFLINEZIP.wpshoeducation/">Образование</a></li><li> <a class="exo2reg" href="http://OFFLINEZIP.wpshoachievemnets/">Достижения</a></li><li> <a class="exo2reg" href="http://OFFLINEZIP.wpshodocumentation/">Версия для печати</a></li><li> <a class="exo2reg" href="http://OFFLINEZIP.wpshocontact/">Связаться со мной</a></li>
+								</ul>
+								<div class="divider"></div>
+								<ul class='linker flex-row'>
+									<li>
+										<div class="circle">
+											<a href="#">
+												<span class="white-text icon icon-fb"></span>
+											</a>
+										</div>
+									</li>
+									<li>
+										<div class="circle">
+											<a href="#">
+												<span class="white-text icon icon-vk"></span>
+											</a>
+										</div>
+									</li>
+									<li>
+										<div class="circle">
+											<a href="#">
+												<span class="white-text icon icon-li"></span>
+											</a>
+										</div>
+									</li>
+									<li class="language valign-wrapper"><a class="exo2reg active">Russian</a></li><li class="language valign-wrapper"><a class="exo2reg" href="http://OFFLINEZIP.wpshoen/sitemap.xml">English</a></li>								</ul>
+							</div>
+						</div>
+					</div>
+				</nav>
+			</div>
+		</header>
+		<!-- #masthead -->
+
+		<div id="page" class="site">
+			<div id="content" class="site-content">
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+			<section class="error-404 not-found">
+				<header class="page-header">
+					<h1 class="page-title">Oops! That page can&rsquo;t be found.</h1>
+				</header><!-- .page-header -->
+
+				<div class="page-content">
+					<p>It looks like nothing was found at this location. Maybe try one of the links below or a search?</p>
+
+					<form role="search" method="get" class="search-form" action="http://OFFLINEZIP.wpsho">
+				<label>
+					<span class="screen-reader-text">Найти:</span>
+					<input type="search" class="search-field" placeholder="Поиск&hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Поиск" />
+			</form><br />
+<b>Warning</b>:  Parameter 2 to WPGlobus_Filters::filter__the_posts() expected to be a reference, value given in <b>D:\currentWorks\kodanev-viktor\wp-includes\class-wp-hook.php</b> on line <b>286</b><br />
+<div class="widget widget_archive"><h2 class="widgettitle">Архивы</h2><p>Try looking in the monthly archives. 🙂</p>		<label class="screen-reader-text" for="archives-dropdown--1">Архивы</label>
+		<select id="archives-dropdown--1" name="archive-dropdown">
+			
+			<option value="">Выберите месяц</option>
+			
+		</select>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "archives-dropdown--1" );
+	function onSelectChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value !== '' ) {
+			document.location.href = this.options[ this.selectedIndex ].value;
+		}
+	}
+	dropdown.onchange = onSelectChange;
+})();
+/* ]]> */
+</script>
+
+		</div>
+				</div><!-- .page-content -->
+			</section><!-- .error-404 -->
+
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+
+	</div>
+	<!-- #content -->
+
+	<footer class="dark-blue">
+		<div class="flex-row icons">
+				<div class="circle">
+					<a href="https://facebook.com/victor.kodanev" target="_blank">
+						<span class="icon icon-fb"></span>
+					</a>
+				</div>
+				<div class="circle">
+					<a href="https://vk.com/id373492752" target="_blank">
+						<span class="icon icon-vk"></span>
+					</a>
+				</div>
+				<div class="circle">
+					<a href="https://ru.linkedin.com/in/viktor-kodanev-8ab91276" target="_blank">
+						<span class="icon icon-li"></span>
+					</a>
+				</div>
+		</div>
+	</footer>
+	<!-- #colophon -->
+	</div>
+	<!-- #page -->
+
+	<script type='text/javascript' src='http://OFFLINEZIP.wpshowp-content/themes/kodanev/assets/js/jquery-2.2.1.min.js?ver=0.1'></script>
+<script type='text/javascript' src='http://OFFLINEZIP.wpshowp-content/themes/kodanev/assets/js/materialize.js?ver=0.1'></script>
+<script type='text/javascript' src='http://OFFLINEZIP.wpshowp-content/themes/kodanev/assets/js/init.js?ver=0.1'></script>
+<script type='text/javascript' src='http://OFFLINEZIP.wpshowp-content/themes/kodanev/js/navigation.js?ver=20151215'></script>
+<script type='text/javascript' src='http://OFFLINEZIP.wpshowp-content/themes/kodanev/js/skip-link-focus-fix.js?ver=20151215'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGlobus = {"version":"1.6.2","language":"ru"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://OFFLINEZIP.wpshowp-content/plugins/wpglobus/includes/js/wpglobus.min.js?ver=1.6.2'></script>
+
+		</body>
+
+		</html>

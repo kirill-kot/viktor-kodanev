@@ -1,0 +1,6 @@
+@font-face {font-family: "Exo 2 Condensed";src: local("Exo 2 Light Condensed"),local("Exo2-LightCondensed"),url("exo2lightcondensed.woff2") format("woff2"),url("exo2lightcondensed.woff") format("woff"),url("exo2lightcondensed.ttf") format("truetype");font-weight: 300;font-style: normal;}
+.exo2light {font-family: "Exo 2 Condensed";font-weight: 300;font-style: normal;text-rendering: optimizeLegibility;}
+@font-face {font-family: "Exo 2 Condensed";src: local("Exo 2 Regular Condensed"),local("Exo2-RegularCondensed"),url("exo2regularcondensed.woff2") format("woff2"),url("exo2regularcondensed.woff") format("woff"),url("exo2regularcondensed.ttf") format("truetype");font-weight: 400;font-style: normal;}
+.exo2reg {font-family: "Exo 2 Condensed";font-weight: 400;font-style: normal;text-rendering: optimizeLegibility;}
+@font-face {font-family: "Exo 2 Condensed";src: local("Exo 2 Bold Condensed"),local("Exo2-BoldCondensed"),url("exo2boldcondensed.woff2") format("woff2"),url("exo2boldcondensed.woff") format("woff"),url("exo2boldcondensed.ttf") format("truetype");font-weight: 700;font-style: normal;}
+.exo2bold {font-family: "Exo 2 Condensed";font-weight: 700;font-style: normal;text-rendering: optimizeLegibility;}

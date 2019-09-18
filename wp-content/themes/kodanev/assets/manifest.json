@@ -1,0 +1,13 @@
+{
+	"name": "Viktor Kodanev Personal Site",
+	"icons": [
+		{
+			"src": "\/android-chrome-192x192.png",
+			"sizes": "192x192",
+			"type": "image\/png"
+		}
+	],
+	"theme_color": "#ffffff",
+	"start_url": "http:\/\/viktor-kodanev.com\/",
+	"display": "standalone"
+}
